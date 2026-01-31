@@ -1,0 +1,21 @@
+# Core LangChain packages
+langchain>=0.1.0
+langchain-anthropic>=0.1.0
+langchain-community>=0.0.20
+
+# Document processing
+pypdf>=3.17.0
+
+# Embeddings and vectorstore
+sentence-transformers>=2.2.2
+chromadb>=0.4.22
+
+# Utilities
+python-dotenv>=1.0.0
+
+# Web UI
+streamlit>=1.30.0
+
+# Optional: For notebook environment
+jupyter>=1.0.0
+ipykernel>=6.29.0
