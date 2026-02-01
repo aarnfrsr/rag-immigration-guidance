@@ -7,7 +7,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 🚀 Quick Start
+##  Quick Start
 
 ```bash
 # 1. Clone and setup
@@ -29,7 +29,7 @@ streamlit run app.py
 # Or use: run.bat (Windows) / ./run.sh (Unix)
 ```
 
-## 📸 Screenshots
+##  Screenshots
 
 ![Streamlit Interface](assets/Streamlit.png)
 
@@ -39,16 +39,16 @@ streamlit run app.py
 
 This system allows you to ask questions about U.S. immigration policies and receive accurate, citation-backed answers from official USCIS documentation.
 
-### ✨ Key Features
+###  Key Features
 
-- 🎯 **Dual LLM Support**: Compare local (Ollama/Llama3) vs cloud (Claude Sonnet 4.5) implementations
-- 🌐 **Web Interface**: Beautiful Streamlit frontend with chat history and source visualization
-- 📚 **Source Attribution**: All answers include references to specific USCIS documents and page numbers
-- ⚡ **Production-Ready**: Persisted vectorstore, error handling, and optimized retrieval
-- 💰 **Cost-Effective**: Free local embeddings with optional API-based generation
-- 📖 **Comprehensive Coverage**: 25 USCIS policy documents (~203 pages)
+-  **Dual LLM Support**: Compare local (Ollama/Llama3) vs cloud (Claude Sonnet 4.5) implementations
+-  **Web Interface**: Beautiful Streamlit frontend with chat history and source visualization
+-  **Source Attribution**: All answers include references to specific USCIS documents and page numbers
+-  **Production-Ready**: Persisted vectorstore, error handling, and optimized retrieval
+-  **Cost-Effective**: Free local embeddings with optional API-based generation
+-  **Comprehensive Coverage**: 25 USCIS policy documents (~203 pages)
 
-### 🛠️ Skills Demonstrated
+###  Skills Demonstrated
 
 This project showcases proficiency in:
 
@@ -237,7 +237,7 @@ The original implementation used Ollama with Llama2. Key differences:
 | Speed | Fast (local) | Fast (API, ~2-3s) |
 | Setup | Requires Ollama server | Just API key |
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 rag-immigration-guidance/
@@ -259,7 +259,7 @@ rag-immigration-guidance/
 
 See [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md) for detailed documentation.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
 - Development setup instructions
@@ -268,13 +268,13 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for:
 - Testing procedures
 
 **Quick contribution ideas:**
-- ✅ Add more USCIS documents
-- ✅ Implement semantic caching for common queries
-- ✅ Add conversation memory for follow-up questions
-- ✅ Create unit tests for RAG components
-- ✅ Add evaluation metrics
+-  Add more USCIS documents
+-  Implement semantic caching for common queries
+-  Add conversation memory for follow-up questions
+-  Create unit tests for RAG components
+-  Add evaluation metrics
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
