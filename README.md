@@ -33,6 +33,8 @@ streamlit run app.py
 
 ![Streamlit Interface](assets/Streamlit.png)
 
+![Jupyter Notebook](assets/notebook-in-use.png)
+
 ## Overview
 
 This system allows you to ask questions about U.S. immigration policies and receive accurate, citation-backed answers from official USCIS documentation.
