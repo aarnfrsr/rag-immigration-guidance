@@ -31,8 +31,7 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-<!-- Add screenshots here after generating them -->
-> **Note**: See [assets/README.md](assets/README.md) for instructions on adding screenshots.
+![Streamlit Interface](assets/Streamlit.png)
 
 ## Overview
 
